@@ -1,0 +1,13 @@
+# credenziali
+.env
+
+# ambiente virtuale
+venv/
+nuovo_venv/
+
+# cache Python
+__pycache__/
+*.pyc
+
+# file PyCharm
+.idea/
